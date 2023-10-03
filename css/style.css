@@ -1,0 +1,24 @@
+.fallow-us-section {
+    background-color: white;
+}
+.heading{
+    color: #323f4a;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.icon {
+    color: #d2b200;
+    font-size: 35px;
+}
+.follow-us-icon-section {
+    width: 80px;
+    height: 80px;
+    background-color: #ecd669;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 24px;
+    margin: 15px;
+    border-radius: 40px;
+}
